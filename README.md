@@ -1,7 +1,7 @@
-# CutDown
+# Compte a rebour
 
-CutDown c'est un site de compte a rebour
+ c'est un site de compte a rebour
 
 
 # Exemple
-**[Voir un exemple](https://cutdown.netlify.app "Clic ici pour prévisualiser")**
+**[Voir un exemple](https://comptearebour.netlify.app "Clic ici pour prévisualiser")**
